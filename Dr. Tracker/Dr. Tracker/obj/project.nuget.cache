@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "6AgG5OlddXvtblCuS8yBqPK1zallOpm/dheHMWI4ognfCm7qxghBYOznSTc5QE02/GD4Z1Fw04794neYRocYUg==",
+  "success": true,
+  "projectFilePath": "D:\\Code\\Dr. Tracker\\Dr. Tracker\\Dr. Tracker\\Dr. Tracker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Caleb Baker\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Caleb Baker\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Caleb Baker\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Caleb Baker\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Caleb Baker\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
